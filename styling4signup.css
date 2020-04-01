@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    font-size: 60px;
+    background-color: yellowgreen;
+    font-weight: bold;
+}
+#inputtext{
+    padding: 10px 20px;
+    margin-left: 300px;
+    font-size: 30px;
+        }
+
+button{
+    border-radius: 40px ;
+    background-color: yellowgreen;
+    font-color: black;
+    font-size: 30px;
+    margin-left: 500px;
+    padding: 20px 40px;
+    margin-top: 150px;
+    
+}
+
+button:hover{
+    background-color: seagreen;
+    color: yellowgreen;
+}
